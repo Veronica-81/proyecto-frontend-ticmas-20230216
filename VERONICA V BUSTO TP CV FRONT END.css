@@ -1,0 +1,89 @@
+* {
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgba(0,0,0,.6);
+}
+
+body {
+  background: #76A430;
+  background: -moz-linear-gradient(left, #76A430 0%, #72CB46 50%, #37754E 100%);
+  background: -webkit-linear-gradient(left, #76A430 0%, #72CB46 50%, #37754E 100%);
+  background: linear-gradient(to right, #76A430 0%, #72CB46 50%, #37754E 100%);}
+
+header {
+  background-color: rgb(144, 175, 70);
+  padding: 30px;
+  text-align: center;
+  font-size: 20px;
+  color: rgb(194, 189, 189);
+}
+header,img{
+  -webkit-box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0); 
+box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+}
+h1{
+  text-shadow: 2px 2px 0 #bcbcbc, 4px 4px 0 #9c9c9c;
+  font-weight: bolder;
+  font-size: 300%;
+  padding: 10px;
+  margin: 20px
+}
+
+h2 {font-size: 250%;
+  padding: 10px;
+  margin: 20px}
+
+#perfil_profesional{
+  font-size: 200%;
+    padding: 10px;
+    margin: 20px
+}
+#experiencia_profesional{
+  font-size: 200%;
+    padding: 10px;
+    margin: 20px
+}
+
+#Educacion{
+  
+  font-size: 200%;
+    padding: 10px;
+    margin: 20px
+}
+
+#Contacto{
+  font-size: 200%;
+    padding: 10px;
+    margin: 20px
+}
+#imprimircv{
+  font-size: 200%;
+  padding: 10px;
+  margin: 20px 
+}
+
+.subtitulos{
+  font-size: 150%;
+  padding: 10px;
+  margin: 20px
+}
+
+  p {
+    font-size: 100%;
+    padding: 10px;
+    margin: 20px
+  }
+
+* button {
+    color: rgb(255, 255, 255); font-size: 15px; line-height: 15px; padding: 9px; border-radius: 15px; font-family: Arial, Helvetica, sans-serif; font-weight: normal; text-decoration: none; font-style: normal; font-variant: normal; text-transform: none; background-image: linear-gradient(to right, rgb(118, 164, 48) 0%, rgb(114, 203, 70) 50%, rgb(55, 117, 78) 100%); box-shadow: rgb(0, 0, 0) 5px 5px 15px 5px; border: 2px solid rgb(28, 110, 164); display: inline-block;}
+    .button:hover {
+    background: #76A430; }
+    .button:active {
+    background: #37754E; 
+    padding: 10px;
+    margin: 20px}
+ ul{
+  padding: 10px;
+  margin: 20px;
+  color: blue;
+}   
